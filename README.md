@@ -4,8 +4,9 @@ To enable this demo please install vault on your local machine: https://www.vaul
 Then run init_vault.sh which initializes a dev vault server.
 Only doing this since a back-end is needed for spring config server.
 
-Now can run application in server folder.
+Now can run config server application in behavior/server folder.
 
 I am really just comparing spring boot across three minor patches (2.5.1, 2.5.2, and 2.5.12)
+These 3 different config clients are in behvaior/
 
 I ran this sample in intellij
